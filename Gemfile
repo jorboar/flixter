@@ -45,6 +45,8 @@ gem "figaro"
 
 gem "fog-aws"
 
+gem 'carrierwave-aws'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
